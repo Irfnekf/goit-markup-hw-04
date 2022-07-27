@@ -354,7 +354,7 @@ img {
 .clients-link:hover,
 .clients-link:focus {
   fill: var(--button-link-primary);
-  border: 1px solid var(--button-link-primary);
+  border-color: var(--button-link-primary);
 }
 
 /* footer */
